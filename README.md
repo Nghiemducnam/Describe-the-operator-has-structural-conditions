@@ -1,0 +1,1 @@
+# Describe-the-operator-has-structural-conditions
